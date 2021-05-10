@@ -5,6 +5,9 @@ description: > # your text below (remove <br> elements if you don't need line br
  I love to use interesting algorithms to analyze data and extract meaningful results. 
  <br>
  <a href="https://viet-invest.com/">My Investing Journal</a>
+ <a href="https://viet-invest.com/" target="_blank" rel="noopener noreferrer">Viet Invest</a>
+ <br> 
+ <a href="https://github.com/thaoduyentran/">Github</a>
 
   
 theme: jekyll-theme-minimal
