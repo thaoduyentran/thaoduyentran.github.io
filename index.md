@@ -9,7 +9,7 @@ The Sharpe Ratio: Risk & Return Analysis (S&P 500 Companies)
 <img src="images/anhthe.jpg?raw=true"/>
 
 ---
-Is your degree worth it? – ROI in Higher Education
+Is your degree worth it? – ROI in Higher Education sample_page.md
 <img src="images/anhthe.png?raw=true"/>
 
 ---
