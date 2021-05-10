@@ -3,9 +3,6 @@
 ---
 
 ### Data Analytics Projects
-#### [Return on investment in higher education analysis](https://github.com/thaoduyentran/ROIeducation/)
-#### [Risk & Return Analysis based on The Sharpe Ratio](https://github.com/thaoduyentran/riskreturn/) 
-#### [An overlook on Bitcoin Cryptocurrency Market](https://github.com/thaoduyentran/bitcoinmarketcap/)
 
 ---
 #### [Return on investment in higher education analysis](https://github.com/thaoduyentran/ROIeducation/)
