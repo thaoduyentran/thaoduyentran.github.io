@@ -4,11 +4,11 @@
 
 ### Data Analytics Projects
 
-The Sharpe Ratio: Risk & Return Analysis (S&P 500 Companies)(/sample_page)
+The Sharpe Ratio: Risk & Return Analysis (S&P 500 Companies)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-Is your degree worth it? – ROI in Higher Education (/pdf/sample_presentation.pdf)
+Is your degree worth it? – ROI in Higher Education
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
