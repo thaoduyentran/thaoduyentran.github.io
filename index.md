@@ -10,7 +10,7 @@
 
 ---
 ## Is your degree worth it? – ROI in Higher Education 
-<img src="dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
