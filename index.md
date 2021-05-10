@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics Projects
 
-[Project 1 Title](/sample_page)
+The Sharpe Ratio: Risk & Return Analysis (S&P 500 Companies)(/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+Is your degree worth it? – ROI in Higher Education (/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
