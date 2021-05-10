@@ -3,7 +3,8 @@ logo: "/images/hehe.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  I am an aspiring data analytics learner, a tech junkie and an upcoming entrepreneur.
  I love to use interesting algorithms to analyze data and extract meaningful results. 
- <a href="https://www.freecodecamp.org/">freeCodeCamp</a>
+ <br>
+ <a href="https://viet-invest.com/">My Investing Journal</a>
 
   
 theme: jekyll-theme-minimal
