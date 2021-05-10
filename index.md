@@ -72,17 +72,10 @@ The names of the cryptocurrencies above are quite unknown, and there is a consid
 Many coins are not comparable to large companies in market cap, so let's divert from the original Investopedia definition by merging categories.
 <img src="images/bc4.png?raw=true"/>
 
-## 
----
-### Tech Projects
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
+
+
 
 
 
