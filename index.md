@@ -3,16 +3,13 @@
 ---
 
 ### Data Analytics Projects
-<br>
 #### The Sharpe Ratio: Risk & Return Analysis (S&P 500 Companies)
-<br>
-The Sharpe Ratio, developed by Nobel Prize winner William Sharpe some 50 years ago. It compares the return of an investment to that of an alternative and relates the relative return to the risk of the investment, measured by the standard deviation of returns.
+The Sharpe Ratio, developed by Nobel Prize winner William Sharpe some 50 years ago. It compares the return of an investment to that of an alternative and relates the relative return to the risk of the investment, measured by the standard deviation of returns. I use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio.
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### Is your degree worth it? – ROI in Higher Education 
-<br>
+#### Is your degree worth the investment? – Return on investment in higher education analysis
 This project gives you insights about the short- and long-term financial implications of your undergraduate major decision.<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
