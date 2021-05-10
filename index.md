@@ -3,7 +3,7 @@
 ---
 
 ### Data Analytics Projects
-#### The Sharpe Ratio: Risk & Return Analysis (https://github.com/thaoduyentran/riskreturn) 
+#### The Sharpe Ratio: Risk & Return Analysis (http://example.com/https://github.com/thaoduyentran/riskreturn) 
 The Sharpe Ratio, developed by Nobel Prize winner William Sharpe some 50 years ago. It compares the return of an investment to that of an alternative and relates the relative return to the risk of the investment, measured by the standard deviation of returns. This project provides a brief comparison of the profitability vs risk between Facebook and Amazon Stocks vs the benchmark S&P 500 Index 
 
 1. Summarize daily prices for Amazon and Facebook
