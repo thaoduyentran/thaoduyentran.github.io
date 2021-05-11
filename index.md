@@ -23,7 +23,7 @@ Detailed statistics. You can identify the majors with the highest career percent
 <img src="images/ed5.png?raw=true"/>
 <img src="images/ed6.png?raw=true"/>
 
-Conclusion
+#### Conclusion <br>
 While it's tempting to focus on starting career salaries when choosing a major, it's important to also consider the growth potential down the road. Keep in mind that whether a major falls into the Liberal Arts, Goldilocks, or Over Achievers cluster, one's financial destiny will certainly be influenced by numerous other factors including the school attended, location, passion or talent for the subject, and of course the actual career(s) pursued.
 
 ---
