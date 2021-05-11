@@ -94,8 +94,9 @@ Demo App
 An older version of Unispace, it was designed for students to help them keep track of overwhelming class and activities schedule
 Demo app
 <img src="images/bk1.png?raw=true"/>
-<img src="images/bk2.png?raw=true"/>
 User Interface
+<img src="images/bk2.png?raw=true"/>
+
 <img src="images/bk3.png?raw=true"/>
 
 
