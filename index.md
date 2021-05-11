@@ -1,7 +1,8 @@
 ## Portfolio
-Data Analytics & Technology Innovation
----
+## Data Analytics & Technology Innovation
 
+
+---
 ### Data Analytics Projects
 
 ---
