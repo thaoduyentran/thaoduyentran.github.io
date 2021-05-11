@@ -26,7 +26,7 @@ Conclusion
 Which careers tied for the highest career percent growth? While it's tempting to focus on starting career salaries when choosing a major, it's important to also consider the growth potential down the road. Keep in mind that whether a major falls into the Liberal Arts, Goldilocks, or Over Achievers cluster, one's financial destiny will certainly be influenced by numerous other factors including the school attended, location, passion or talent for the subject, and of course the actual career(s) pursued.
 ## 
 ---
-#### [Bitcoin Cryptocurrency Market](https://github.com/thaoduyentran/bitcoinmarketcap/)
+#### [Bitcoin & Cryptocurrency Market Capitalization](https://github.com/thaoduyentran/bitcoinmarketcap/)
 Compare bitcoin market cap with other cryptocurrencies
 <img src="images/bc11.png?raw=true"/>
 
