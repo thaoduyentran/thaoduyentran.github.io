@@ -69,7 +69,7 @@ In 2016, Amazon had a Sharpe ratio twice as high as Facebook. This means that an
 This difference was mostly driven by differences in return rather than risk between Amazon and Facebook. The risk of choosing Amazon over FB (as measured by the standard deviation) was only slightly higher so that the higher Sharpe ratio for Amazon ends up higher mainly due to the higher average daily returns for Amazon.
 When faced with investment alternatives that offer both different returns and risks, the Sharpe Ratio helps to make a decision by adjusting the returns by the differences in risk and allows an investor to compare investment opportunities on equal terms, that is, on an 'apples-to-apples' basis.
 
-#### Covid 19 Mid March 2020 Stat
+#### [Covid 19 Mid March 2020 Stat](https://github.com/thaoduyentran/covid19stat)
 Plotting hardest hit countries as of Mid-March 2020
 <img src="images/cv.png?raw=true"/>
 
@@ -80,6 +80,7 @@ Plotting hardest hit countries as of Mid-March 2020
 #### Unispace 
 An integrated app that leverages digital convergence to support students' scholastic performance and productivity. It contains class, academic material,
 schedule, online search, connections, chat, progress tracking, student profile. <br>
+<br>
 Tech Stack 
 <img src="images/us1.png?raw=true"/>
 MVP Features
