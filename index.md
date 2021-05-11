@@ -76,10 +76,10 @@ Plotting hardest hit countries as of Mid-March 2020
 
 
 ---
-### Tech Innovation Project
+### Tech Innovation Projects
 #### Unispace 
 An integrated app that leverages digital convergence to support students' scholastic performance and productivity. It contains class, academic material,
-schedule, online search, connections, chat, progress tracking, student profile. 
+schedule, online search, connections, chat, progress tracking, student profile. <br>
 Tech Stack 
 <img src="images/us1.png?raw=true"/>
 MVP Features
