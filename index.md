@@ -26,7 +26,22 @@ Conclusion
 Which careers tied for the highest career percent growth? While it's tempting to focus on starting career salaries when choosing a major, it's important to also consider the growth potential down the road. Keep in mind that whether a major falls into the Liberal Arts, Goldilocks, or Over Achievers cluster, one's financial destiny will certainly be influenced by numerous other factors including the school attended, location, passion or talent for the subject, and of course the actual career(s) pursued.
 ## 
 ---
+#### [Bitcoin Cryptocurrency Market](https://github.com/thaoduyentran/bitcoinmarketcap/)
+Compare bitcoin market cap with other cryptocurrencies
+<img src="images/bc11.png?raw=true"/>
 
+The top 10 biggest gainers and top 10 losers in market capitalization (Daily Stats)
+<img src="images/bc2.png?raw=true"/>
+The top 10 biggest gainers and top 10 losers in market capitalization (Weekly Stats)
+<img src="images/bc3.png?raw=true"/>
+
+The names of the cryptocurrencies above are quite unknown, and there is a considerable fluctuation between the 1 and 7 days percentage changes. As with stocks, and many other financial products, the smaller the capitalization, the bigger the risk and reward. Smaller cryptocurrencies are less stable projects in general, and therefore even riskier investments than the bigger ones1. We can classify the dataset based on Investopedia's capitalization definitions for company stocks.
+<img src="images/bc5.png?raw=true"/>
+
+Many coins are not comparable to large companies in market cap, so let's divert from the original Investopedia definition by merging categories.
+<img src="images/bc4.png?raw=true"/>
+
+---
 #### [Risk & Return Analysis based on The Sharpe Ratio](https://github.com/thaoduyentran/riskreturn/)
 The Sharpe Ratio, developed by Nobel Prize winner William Sharpe some 50 years ago. It compares the return of an investment to that of an alternative and relates the relative return to the risk of the investment, measured by the standard deviation of returns. This project provides a brief comparison of the profitability vs risk between Facebook and Amazon Stocks vs the benchmark S&P 500 Index 
 1. Summarize daily prices for Amazon and Facebook
@@ -49,28 +64,14 @@ The Sharpe Ratio, developed by Nobel Prize winner William Sharpe some 50 years a
 8. Finalize 
 <img src="images/8.png?raw=true"/>
 
-
 ##### Conclusion
 In 2016, Amazon had a Sharpe ratio twice as high as Facebook. This means that an investment in Amazon returned twice as much compared to the S&P 500 for each unit of risk an investor would have assumed. In other words, in risk-adjusted terms, the investment in Amazon would have been more attractive.
 This difference was mostly driven by differences in return rather than risk between Amazon and Facebook. The risk of choosing Amazon over FB (as measured by the standard deviation) was only slightly higher so that the higher Sharpe ratio for Amazon ends up higher mainly due to the higher average daily returns for Amazon.
 When faced with investment alternatives that offer both different returns and risks, the Sharpe Ratio helps to make a decision by adjusting the returns by the differences in risk and allows an investor to compare investment opportunities on equal terms, that is, on an 'apples-to-apples' basis.
-## 
+
 ---
 
-#### [Bitcoin Cryptocurrency Market](https://github.com/thaoduyentran/bitcoinmarketcap/)
-Compare bitcoin market cap with other cryptocurrencies
-<img src="images/bc1.png?raw=true"/>
 
-The top 10 biggest gainers and top 10 losers in market capitalization (Daily Stats)
-<img src="images/bc2.png?raw=true"/>
-The top 10 biggest gainers and top 10 losers in market capitalization (Weekly Stats)
-<img src="images/bc3.png?raw=true"/>
-
-The names of the cryptocurrencies above are quite unknown, and there is a considerable fluctuation between the 1 and 7 days percentage changes. As with stocks, and many other financial products, the smaller the capitalization, the bigger the risk and reward. Smaller cryptocurrencies are less stable projects in general, and therefore even riskier investments than the bigger ones1. We can classify the dataset based on Investopedia's capitalization definitions for company stocks.
-<img src="images/bc5.png?raw=true"/>
-
-Many coins are not comparable to large companies in market cap, so let's divert from the original Investopedia definition by merging categories.
-<img src="images/bc4.png?raw=true"/>
 
 
 ---
