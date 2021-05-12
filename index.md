@@ -6,8 +6,8 @@
 ### Data Analytics Projects
 
 ---
-#### [Return on investment in higher education based on major analysis](https://github.com/thaoduyentran/ROIeducation/)
-Education is usually considered a long-term and low-risk investment for most people. However, without proper research and analysis, the ROI in higher education could disappoint students with unrealistic expectations. I conduct this analysis to provide some useful insights about the short- and long-term financial implications of undergraduate and graduate major decision.<br>
+#### [Is your current college major a wise choice?](https://github.com/thaoduyentran/ROIeducation/)
+Education is usually considered a long-term and low-risk investment for most people. However, without proper research and analysis in employment outcome and salary of your chosen major, the ROI in higher education could disappoint students with unrealistic expectations. I conduct this analysis to provide some useful insights about the short- and long-term financial implications of college major decision.<br>
 
 Comparison in Starting vs. Mid Career Median Salaries.
 <img src="images/ed1.png?raw=true"/>
