@@ -11,7 +11,7 @@ Amazon’s popularity and usage has risen at an exponential rate over the last f
 
 To have a better look at this issue, we examined Amazon's historical statistics for the years 2008 and 2018 (from June 1st to September 30th). We chose these years as they can give us a good understand of the decade-long differences/similarities between Amazon usage and reviews, and these months do not include any major holidays, which can often overinflate reviews and purchases due to spikes in sale deals and offerings. Additionally, we use comments from Amazon's "Electronics" category, as it is one of the most popular product categories available, which means it also has the highest number of reviews and review diversity. According to the Amazon website, to become a verified customer, an account must spend at least $50 on Amazon in the preceding 12 months or purchase a product without receiving a significant discount; this will be important for our analysis, which will sometimes include splits between verified and unverified reviews.
 
-<img src="Poster.png?raw=true"/>
+<img src="images/Poster.png?raw=true"/>
 
 #### [The Economic Value of College Majors](https://github.com/thaoduyentran/ROIeducation/)
 Education is usually considered a long-term and low-risk investment for most people. However, without proper research and analysis about employment outcome and the salary range of a chosen major, the ROI in higher education could disappoint students with unrealistic expectations. I conduct this analysis to provide useful insights about the short- and long-term financial implications of college major decision.<br>
