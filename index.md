@@ -7,9 +7,7 @@
 
 ---
 #### [A Deep Dive Into Spotting Fake Reviews on Amazon](https://github.com/thaoduyentran/amazonfakereview)
-One of the most frequently encountered issues on Amazon is the use of phony positive reviews to increase sales of certain products. According to data gathered from Fakespot, a company that specializes in the identification of fake reviews and counterfeits for online retailers, the number of phony Amazon reviews is predicted to be between 40% and 45% of all global reviews as of June/July 2020. 
-
-To have a better look at this issue, we examined Amazon's historical statistics for the years 2008 and 2018 (from June 1st to September 30th). We chose these years as they can give us a good understand of the decade-long differences/similarities between Amazon usage and reviews, and these months do not include any major holidays, which can often overinflate reviews and purchases due to spikes in sale deals and offerings. Additionally, we use comments from Amazon's "Electronics" category, as it is one of the most popular product categories available, which means it also has the highest number of reviews and review diversity. According to the Amazon website, to become a verified customer, an account must spend at least $50 on Amazon in the preceding 12 months or purchase a product without receiving a significant discount; this will be important for our analysis, which will sometimes include splits between verified and unverified reviews.
+Fake reviews on Amazon has always been a pressing issue as E-commerce rises over the last decade. We wanted to dig deeper in the text reviews by using Natural Language Processing to conduct text mining, text analysis and sentiment analysis to have a better understanding of the issue as well as find a feasible way to detect fake reviews. Further, we want discover the classification algorithm Amazon used to categorize their verified/unverified reviews and compare it to our findings based on text analysis.
 
 <img src="images/Poster.png?raw=true"/>
 
